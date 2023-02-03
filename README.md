@@ -1,10 +1,5 @@
 ### Hey!
 
-<aside>
-  <a rel="me" href="https://mastodon.me.uk/@madwort">Mastodon</a>
-</aside>
-
-
 <!--
 **madwort/madwort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
